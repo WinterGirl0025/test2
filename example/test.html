@@ -4,10 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>example</title>
 </head>
 <body>
-    <p>test2 ---- hello</p>
+    <p>example</p>
+
     <script src="../release/bundle.js"></script>
+    <script>
+        var FC = window.Test2;
+        var tt = new FC();
+        tt.set('a',100);
+        alert(tt.get('a'));
+    </script>
 </body>
 </html>
