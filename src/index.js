@@ -8,6 +8,9 @@ class Test2{
     get(key) {
         return this.list[key]
     }
+    clear(){
+        this.list = {}
+    }
 }
 
 window.Test2 = Test2
