@@ -3,7 +3,8 @@
 
 ## 简介
 
-## test2标题
+## test2 下载
+-下载地址 https://github.com/WinterGirl0025/test2/releases
 
 ## test2标题1
 - 使用文档
